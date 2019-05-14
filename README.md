@@ -1,0 +1,2 @@
+# DailyGrindQuantified
+visualizing effort
