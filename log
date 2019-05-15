@@ -17,3 +17,9 @@ May14 Read      5#pgCommuteWGU
 May14 Read      5#pgInventory
 May14 R         70#min
 May14 Read      2#pg #+MaxEnt, Stochastic HG
+
+May15 Read      2#pg
+May15 data      120#min
+May15 wkshp     60#min
+May15 etude     80#min #stochasticOT,MaxEnt
+May15 email     60#min #EaseOfArticulation/DAC(Recasens)
