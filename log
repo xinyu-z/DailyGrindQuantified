@@ -1,5 +1,5 @@
 #header
-#categories are not measured by time unless time is the only accurate parameter (e.g. NetFlix, workshop, meeting)
+#categories are not measured by time unless time is the only reasonable measurement (e.g. NetFlix, lectures, meetings)
 #emails are quantified by time as a shaming mechanism
 #cycling does not count towards excercising
 #date category  quant 
@@ -44,3 +44,8 @@ May19 daytrip
 May19 Read      8#pg
 #actually spoke German for a purpose
 #sick
+
+May20 VocalTractLength   60 #min
+May20 LitSearch 180 #min
+May20 ML      30 #min
+May20 etude 4 #min  #multinomial
