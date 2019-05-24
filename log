@@ -59,3 +59,10 @@ May21 SocHour   180#min
 
 May22 etude 120 #min  #multinomiallogit
 #adulted and moped, trying to outsick and failed
+
+May23 R         50 #min
+May23 etude     120 #min  #multinomiallogit
+
+May24 #participants
+May24 etude     60  #min #R/predict
+
