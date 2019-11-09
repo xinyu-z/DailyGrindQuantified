@@ -1,4 +1,4 @@
 # DailyGrindQuantified
-holding self accountable by effort reporting
+holding myself accountable by effort reporting
 
-might turn into visualization experiment
+might turn into a visualization experiment
